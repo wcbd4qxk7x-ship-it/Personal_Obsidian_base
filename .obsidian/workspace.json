@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "Git问题合集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "Git问题合集"
             }
           }
         ]
@@ -186,7 +186,31 @@
   },
   "active": "8262c102f13e44a7",
   "lastOpenFiles": [
-    "README.md",
-    "git.md"
+    "Git部署与连接.md",
+    "Git问题合集.md",
+    "数组.md",
+    "git.md",
+    "钛金属高温变色.md",
+    "蛋白质.md",
+    "蛋白质-DESKTOP-NNE71MB.md",
+    "薄膜干涉.md",
+    "福格行为模型.md",
+    "电磁场和电磁波.md",
+    "电机的种类.md",
+    "氨基酸.md",
+    "极简生活指南：.md",
+    "最大公约数（GCD）和最小公倍数（LCM）.md",
+    "建立知识格栅思维模型：.md",
+    "台风形成的过程.md",
+    "冒泡法.md",
+    "什么是波.md",
+    "人体的热量（k）概念及消耗过程.md",
+    "ros学习路线.md",
+    "ros2_Learning.md",
+    "ROS相关基本概念.md",
+    "Linux软件下载.md",
+    "Linux文件操作.md",
+    "Linux学习指南.md",
+    "ATP.md"
   ]
 }
